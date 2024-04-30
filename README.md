@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashtarate07/Yash-Tarate-Portfolio](https://github.com/yashtarate07/Yash-Tarate-Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/yashtarate07/Yash-Tarate-Portfolio](https://github.com/yashtarate2002/My-Portfolio.git)
 
 - 💬 Ask me about **React.js , Javascript , Node.js , Express.js**
 
