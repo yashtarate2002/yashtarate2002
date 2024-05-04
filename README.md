@@ -3,7 +3,7 @@
        <h1 align="center">Hello 👋, I'm Yash Rajendra Tarate</h1>
 <h4 align="center">I'm Yash, a final year Mechanical Engineering student at JSPM's RSCOE, with a keen interest in mastering full-stack web development. My journey involves blending creative design elements with powerful back-end solutions, utilizing frameworks like React and Node.js. With a knack for problem-solving and a thirst for innovation, I aspire to craft immersive web experiences that seamlessly integrate form and function. Excited to explore the endless possibilities of web development and make meaningful contributions to the digital world.</h4>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashtarate07&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views]([https://komarev.com/ghpvc/?username=yashtarate07&label=Profile%20views&color=0e75b6&style=flat](https://6635da68861482b3b94e0260--fantastic-heliotrope-643979.netlify.app/))
    </div>
 
 <div class="right" style="float: right; width: 50%;">
